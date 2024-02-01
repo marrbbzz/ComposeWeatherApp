@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación del Tiempo</string>
+    <string name="sunny">Soleado</string>
+    <string name="windspeed">Viento 1 m/s</string>
+    <string name="humidity">Humedad: 69%</string>
+    <string name="forecast">Pronóstico</string>
+    <string name="friday">Viernes</string>
+    <string name="thursday">Juves</string>
+    <string name="wednesday">Miércoles</string>
+    <string name="tuesday">Martes</string>
+    <string name="monday">Lunes</string>
+    <string name="go_back">Volver</string>
+</resources>

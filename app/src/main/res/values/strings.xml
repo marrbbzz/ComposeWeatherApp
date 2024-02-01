@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="sunny">Sunny</string>
+    <string name="windspeed">Wind 1 m/s</string>
+    <string name="humidity">Humidity: 69%</string>
+    <string name="forecast">Forecast</string>
+    <string name="friday">Friday</string>
+    <string name="thursday">Thursday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="monday">Monday</string>
+    <string name="go_back">Return</string>
+</resources>
